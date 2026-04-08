@@ -22,3 +22,9 @@ echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc
 ```Shell
 claude --dangerously-skip-permissions
 ```
+
+
+---
+
+/loop 30m /gsd:next read .planning/handoff.md, check .planning/STATE.md, and continue making progress on the next incomplete phase. Update handoff.md when
+ done each cycle. 
